@@ -129,6 +129,10 @@ public class Experiment extends JPanel {
             logger.resetLeftSwipes();
             logger.resetRightSwipes();
             logger.resetUpSwipes();
+            logger.resetLeftTaps();
+            logger.resetRightTaps();
+            logger.resetDownSlides();
+            logger.resetUpSlides();
 
             currentTrialNum++;
         } else {

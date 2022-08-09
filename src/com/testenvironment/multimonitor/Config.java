@@ -81,4 +81,6 @@ public class Config {
     public static String SOUND_ERROR_PATH = "sounds/error.wav";
     public static String SOUND_SUCCESS_PATH = "sounds/success.wav";
     public static String SOUND_FINISHED_PATH = "sounds/finished.wav";
+
+    public static boolean ANIMATION_RUNNING = false;
 }
